@@ -1,6 +1,6 @@
 # Curbside Thai
 
-This project is a first tutorial for the book `New Prespectives on HTML 5 and CSS Comprehensive` and it's about makig a website for a Thai resturant.
+This project is inspired by first tutorial for the book `New Prespectives on HTML 5 and CSS Comprehensive` and it's about makig a website for a Thai resturant.
 
 ## Getting started
 
@@ -10,7 +10,7 @@ This project is a first tutorial for the book `New Prespectives on HTML 5 and CS
     https://github.com/mohammadnazarkhani/Curbside-Thai.git
     ```
 
-2. Open the `ct_start.html` file inside the tutorial folder.
+2. Open the `index.html` file in a web browser.
 
 ## Contributions
 
