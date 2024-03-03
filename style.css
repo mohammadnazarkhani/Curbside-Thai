@@ -1,0 +1,138 @@
+@import url("root.css");
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    border-radius: 10px;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+.default-padding {
+    padding: 10px;
+}
+
+.default-border-style {
+    border-style: solid;
+    border-color: var(--border-color);
+}
+
+.container {
+    background-color:var(--bg-light-color);
+    width: 250px;
+    height: auto;
+    padding: 10px;
+    border-style: solid;
+    border-color: var(--border-color);
+    margin: 10px;
+}
+header img#banner {
+    width: 600px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+nav {
+    width: 250px;
+    height: auto;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+nav li:hover {
+    color: red;
+}
+
+nav a:hover {
+    color: var(--border-color);
+}
+
+main#homepage {
+    width: 800px;
+    padding: 10px;
+}
+
+.img-container {
+    text-align: center; /* Horizontally center the image */
+    border: 2px solid #ccc; /* Desired border with border color */
+    background-color: #d4d4d4;
+    width: fit-content;
+    margin: 10px auto;
+}
+
+.img-container img {
+    display: block; /* Ensure the image is displayed as a block element */
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+.img-container .alt-text {
+    margin: 10px;
+}
+
+
+section {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+    flex-wrap:  wrap;
+}
+/* Footer Styles */
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+    flex: 1;
+    margin: 10px;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contact-info,
+.opening-hours,
+.social-media {
+    flex: 1;
+    margin: 0 20px;
+}
+
+.contact-info h2,
+.opening-hours h2,
+.social-media h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.contact-info p,
+.opening-hours p {
+    margin-bottom: 5px;
+}
+
+.social-media a {
+    display: block;
+    margin-bottom: 5px;
+    color: #007bff; /* Adjust the color as needed */
+    text-decoration: none;
+}
+
+.social-media a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+.copyright p {
+    margin: 0;
+}
