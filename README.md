@@ -1,6 +1,6 @@
 # Curbside Thai
 
-This project is inspired by first tutorial for the book `New Prespectives on HTML 5 and CSS Comprehensive` and it's about makig a website for a Thai resturant.
+This project is inspired by first tutorial of the book `New Prespectives on HTML 5 and CSS Comprehensive` and it's about makig a website for a Thai resturant.
 
 ## Getting started
 
