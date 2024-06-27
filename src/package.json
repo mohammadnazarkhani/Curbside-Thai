@@ -4,7 +4,8 @@
   "description": "This project is inspired by first tutorial of the book `New Prespectives on HTML 5 and CSS Comprehensive` and it's about makig a website for a Thai resturant.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon bin.//www"
   },
   "keywords": [],
   "author": "",

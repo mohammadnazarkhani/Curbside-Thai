@@ -1,0 +1,24 @@
+:root {
+    --bg-color: #F1C69A;
+    --bg-light-color: #ecdbcb;
+    --bg-dark-color: #9B540F;
+    --border-color: #e7a363;
+}
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
